@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-If-Else", "07-If-Else\07
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-Switch-Case", "08-Switch-Case\08-Switch-Case.csproj", "{60D2652F-A10F-4CF7-8259-BBEDD632BE25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-While-Loop", "09-While-Loop\09-While-Loop.csproj", "{EBE535EF-FE17-470C-9AF3-0553A755DB73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-For-Loop", "10-For-Loop\10-For-Loop.csproj", "{7AD7920D-4DB2-4800-9D37-41732137D865}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{60D2652F-A10F-4CF7-8259-BBEDD632BE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60D2652F-A10F-4CF7-8259-BBEDD632BE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60D2652F-A10F-4CF7-8259-BBEDD632BE25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE535EF-FE17-470C-9AF3-0553A755DB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE535EF-FE17-470C-9AF3-0553A755DB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE535EF-FE17-470C-9AF3-0553A755DB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE535EF-FE17-470C-9AF3-0553A755DB73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD7920D-4DB2-4800-9D37-41732137D865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD7920D-4DB2-4800-9D37-41732137D865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD7920D-4DB2-4800-9D37-41732137D865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD7920D-4DB2-4800-9D37-41732137D865}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
