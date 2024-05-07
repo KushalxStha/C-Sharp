@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-While-Loop", "09-While-L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-For-Loop", "10-For-Loop\10-For-Loop.csproj", "{7AD7920D-4DB2-4800-9D37-41732137D865}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-Break-Continue", "11-Break-Continue\11-Break-Continue.csproj", "{BDB5FCA2-5373-469F-8A97-ADA054D2867B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{7AD7920D-4DB2-4800-9D37-41732137D865}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AD7920D-4DB2-4800-9D37-41732137D865}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AD7920D-4DB2-4800-9D37-41732137D865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB5FCA2-5373-469F-8A97-ADA054D2867B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB5FCA2-5373-469F-8A97-ADA054D2867B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB5FCA2-5373-469F-8A97-ADA054D2867B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB5FCA2-5373-469F-8A97-ADA054D2867B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
