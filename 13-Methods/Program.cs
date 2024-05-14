@@ -17,11 +17,11 @@ namespace _13_Methods
         }
 
         //Defining Method
-        static void singHappyBirthday(string person, int age)
+        static void singHappyBirthday(string name, int age=18)  // Default Parameter
         {
             Console.WriteLine("Happy Birthday to you!");
             Console.WriteLine("Happy Birthday to you!");
-            Console.WriteLine($"Happy Birthday Dear {person}!");
+            Console.WriteLine($"Happy Birthday Dear {name}!");
             Console.WriteLine($"You are {age} years old.");
             Console.WriteLine("Happy Birthday to you!");
             Console.WriteLine();
