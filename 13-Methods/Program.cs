@@ -10,10 +10,21 @@ namespace _13_Methods
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Heyy");
+            //Calling Method
+            singHappyBirthday("Alex", 20);
+            singHappyBirthday("Jhon", 22);
             Console.ReadKey();
-            Console.WriteLine("How are you?");
-            Console.ReadLine();
+        }
+
+        //Defining Method
+        static void singHappyBirthday(string person, int age)
+        {
+            Console.WriteLine("Happy Birthday to you!");
+            Console.WriteLine("Happy Birthday to you!");
+            Console.WriteLine($"Happy Birthday Dear {person}!");
+            Console.WriteLine($"You are {age} years old.");
+            Console.WriteLine("Happy Birthday to you!");
+            Console.WriteLine();
         }
     }
 }
