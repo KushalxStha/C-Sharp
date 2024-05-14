@@ -26,26 +26,22 @@ namespace _14_Return_Values
 
         static double Addition(double x, double y)
         {
-            double z = x + y;
-            return z;
+            return x + y;
         }
 
         static double Subtraction(double x, double y)
         {
-            double z = x - y;
-            return z;
+            return x - y;
         }
 
         static double Multiplication(double x, double y)
         {
-            double z = x * y;
-            return z;
+            return x * y;
         }
 
         static double Division(double x, double y)
         {
-            double z = x / y;
-            return z;
+            return x / y;
         }
     }
 }
