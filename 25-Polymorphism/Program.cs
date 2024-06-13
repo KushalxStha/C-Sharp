@@ -10,9 +10,9 @@ namespace _25_Polymorphism
             //                Objects can be identified by more than one type
             //                Ex: A dog is also: Canine, Animal, Organism ...
 
-            Bike bike = new Bike();
-            Bicycle bicycle = new Bicycle();
-            Boat boat = new Boat();
+            Vehicle bike = new Bike();
+            Vehicle bicycle = new Bicycle();
+            Vehicle boat = new Boat();
 
             Vehicle[] vehicle = { bike, bicycle, boat };
 
